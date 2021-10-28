@@ -1,0 +1,11 @@
+>> touch to create a new file
+>> git init: to initialize an empty git repository
+>> status: to check if the files are tracked or not
+>> git add . (to all files to the stage which are in the project)
+>> git commit (to start to track all the files which are on the stage)
+>> git restore --staged names.txt (to remove a file from stage)
+>> git stash: Let's say you've made some changes after committing in the log, if you want to
+    save those changes in a temporary directory and restore them later you can do that 
+    using git stash pop. Otherwise, stashing gives you clean working tree just like you would 
+    have got with the last log entry. git stash clean removes the stashed directory. 
+>> GitHub
