@@ -8,4 +8,4 @@
     save those changes in a temporary directory and restore them later you can do that 
     using git stash pop. Otherwise, stashing gives you clean working tree just like you would 
     have got with the last log entry. git stash clean removes the stashed directory. 
->> GitHub
+>> GitHubls
